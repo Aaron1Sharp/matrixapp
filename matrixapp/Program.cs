@@ -5,6 +5,10 @@ namespace matrixapp
    
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             double[,] N = { { 2, 2 }, { 1, 1 } };
